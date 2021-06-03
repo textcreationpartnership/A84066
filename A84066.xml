@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bishop of London, the Welsh curate, and common prayers, with apocrypha in the end. By Will. Erbery.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <extent>Approx. 80KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84066</idno><idno type="EEBO-CITATION">99866133</idno>
+  <idno type="VID">118397</idno>
+  <idno type="EEBO-PROQUEST">2240922009</idno>
+  
+            <idno type="STC">Wing E3223</idno>
+            <idno type="STC">Thomason E684_26</idno>
+            <idno type="STC">ESTC R207059</idno>
+            <idno type="PROQUEST">99866133</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866133e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E684[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bishop of London, the Welsh curate, and common prayers, with apocrypha in the end. By Will. Erbery.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[4], 8, [2], 16, [2], 11, [3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1652 [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes 'The general epistle to the Hebrews', with its own separate titlepage.</note>
+                  <note>'The bishop of London', 'The Welsh curate', and 'Apocrypha' has its own titlpage.</note>
+                  <note>Register is continuous.</note>
+                  <note>Annotation on Thomason copy: "8th January".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Antinomianism --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118397:1"/>
+            <p>THE Bishop of London, The Welsh Curate, AND Common Prayers, WITH Apocrypha In the End. By WILL. ERBERY.</p>
+            <q>
+               <bibl>
+                  <hi>Isai. 24.1. to the end.</hi>
+               </bibl> Behold, the Lord maketh the earth empty, and turn<g ref="char:EOLhyphen"/>eth it upside down.</q>
+            <q>
+               <bibl>
+                  <hi>Acts 17.6.</hi>
+               </bibl> These that have turned the world upside down, are come hither also.</q>
+            <p>Printed at <hi>London,</hi> 1652.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:118397:2"/>
+                  <pb facs="tcp:118397:2"/>
+                  <p>The BISHOP OF LONDON: OR, An EPISCOPAL SPIRIT risen, And appearing at London-House: That is, <hi>The Spirit of Prayer ceased in the</hi> CHURCHES. Being a brief Narrative of what passed at <hi>London</hi>-House among Church-Ministers, Mr. <hi>Simpson</hi> at Bishops-gate, and others, On Munday-night, <hi>Novemb.</hi> 22. 1652. By WIL. ERBERY.</p>
+                  <q>They shall go with their flocks and herds to seek the Lord, but they shall not finde him: he hath withdrawn himself from them, <bibl>
+                        <hi>Hos. 5.6.</hi>
+                     </bibl>
+                  </q>
+                  <p>Printed at <hi>London,</hi> 1652.</p>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb facs="tcp:118397:3"/>
+                  <pb n="1" facs="tcp:118397:3"/>
+                  <head>The BISHOP OF London.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Churches of <hi>London,</hi> both Independent and Baptized ones,
+<note place="margin">Isai. 8.9, 11, 14. <hi>compared.</hi>
+                     </note> having formerly <hi>associa<g ref="char:EOLhyphen"/>ted and girt themselves</hi> with a Sword, or Martial power, I mean, some Army-preaching men, joyned in a Body at <hi>Great Alhallows,</hi> to pray for a new Representative, and to preach somewhat against the old; for which they received no Countenance, but rather a Check from the State, and some high<g ref="char:EOLhyphen"/>est of the Army.</p>
+                  <p>Having there laboured in vain, and spent their
+<pb n="2" facs="tcp:118397:4"/>strength for nought; <hi>not finding</hi> the Spirit in a Pres<g ref="char:EOLhyphen"/>byterial or <hi>Parochial</hi> Church, they changed their quarters, and came to seek it in the <hi>Episcopal Sea</hi> at <hi>London</hi>-house.</p>
+                  <p>There (as men who would build up <hi>Babylon</hi> a<g ref="char:EOLhyphen"/>gain) they founded a Structure of two stories high; not a Pulpit and Reading-Pue, but <hi>a stately frame of wood to preach and pray in</hi> two distinct Forms.</p>
+                  <p>The One, being the highest, I conceive is for the <hi>Independent Fellowship,</hi> (for such onely I saw sitting there:) the lower is <hi>the Baptized Foot<g ref="char:EOLhyphen"/>stool.</hi>
+                  </p>
+                  <p>The Lord brought me there, at first, to behold their <hi>Order;</hi> but seeing their <hi>Confusion,</hi> I yet heard one praying belowe, afterwards another above, Captain <hi>Spencer;</hi> at whose loud and long Prayer, my spirit was so stirred, I could scarce contain from crying out, <hi>Vox, &amp; praeterea nihil.</hi>
+                  </p>
+                  <p>Mr. <hi>Knight</hi> was next: but hoping to finde no better from him, I departed in peace and si<g ref="char:EOLhyphen"/>lence.</p>
+                  <p>The next Munday I had no thoughts to come there any more: but being occasionally by <hi>Pauls</hi> in the evening, it was in my spirit to <hi>visit my bre<g ref="char:EOLhyphen"/>thren,</hi>
+                     <note place="margin">Rev. 19.10</note> and to see if the <hi>Spirit of Jesus</hi> would yet ap<g ref="char:EOLhyphen"/>pear in the Churches of Christ so called.</p>
+                  <p>The first man that I heard preaching, was Mr. <hi>Feak,</hi> who (methought) spake to the purpose con<g ref="char:EOLhyphen"/>cerning Prayer, That the Saints should now re<g ref="char:EOLhyphen"/>turn to their <hi>old spirit of prayer in Gospel-times,</hi> which was not in <hi>loose requests,</hi> and <hi>long confessions of sins,</hi>
+                     <pb n="3" facs="tcp:118397:4"/>but in short breathings out their <hi>present desires</hi> to God, with abundance of <hi>fervency and faith</hi> to ob<g ref="char:EOLhyphen"/>tain.</p>
+                  <p>This was the sum of what he spake very well.</p>
+                  <p>The next succeeded to pray, or rather to preach, (for his Praying was meer Preaching) or heaping a company of Promises in studied Petitions, larded with whole Scripture-verses together.</p>
+                  <p>This was belowe: but looking up on high, I spied Mr. <hi>Simpson,</hi> Mr. <hi>Cokayn,</hi> and others, as pre<g ref="char:EOLhyphen"/>paring themselves to something. The first (in stead of <hi>praying,</hi> began to <hi>preach,</hi> or <hi>prophesie,</hi> as he terms it, and thinks it so; so do not I; neither do I think,
+<note place="margin">Act. 12.5.</note> that when prayers were made for <hi>Peter</hi> by the Church, that they spent their time in Preach<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>Before Mr. <hi>Simpson</hi> would name his Text, he opens himself in a large Preface; and, (as if he had stood on the Stool of Repentance) he <hi>confesseth his faults</hi> before us all.</p>
+                  <p>First, he <hi>professed himself a fool,</hi> for the rising of his heart against that which another held forth not according to his apprehension.</p>
+                  <p>Secondly, he said that <hi>be was a fool</hi> again, for that <hi>rigidness</hi> of spirit, to stick to his own, or to <hi>oppose the light that might shine in another,</hi> i.e. <hi>the Lord in them.</hi>
+                  </p>
+                  <p>He shewed further, how God had <hi>judged that ri<g ref="char:EOLhyphen"/>gidness in Prelacie and Presbytery,</hi> and would also in the <hi>Independents, or Dippers;</hi> so he calleth the Bapti<g ref="char:EOLhyphen"/>zed Churches, though I dare not.</p>
+                  <p>But see how the man doth judge and condemn himself, or backslide into the same sin or folly he confess'd but now.</p>
+                  <pb n="4" facs="tcp:118397:5"/>
+                  <p>For first, whereas Mr. <hi>Feak</hi> had truely declared what was said before concerning Prayer, Mr. <hi>Sim<g ref="char:EOLhyphen"/>pson</hi> doth presently censure, and publikely con<g ref="char:EOLhyphen"/>demn, in preaching, what his brother had spoken in truth and peace, with much submission.</p>
+                  <p>Truely I wondered at that <hi>Magisterial spirit</hi> in the honest man, that <hi>self-confidence</hi> besides. But he confess'd himself a <hi>fool</hi> before, and, it may be, he had not thorowly <hi>repented of it.</hi>
+                  </p>
+                  <p>But was it <hi>Wisdom,</hi> think you, to fall on so <hi>sud<g ref="char:EOLhyphen"/>denly?</hi> And was it not a Truth, that the <hi>spirit of prayer</hi> in Gospel-times, was <hi>more in Spirit, less in the Form?</hi> Were there such <hi>large confessions of sins</hi> in the Primitive Saints, when they came <hi>in prayer to seek some special thing?</hi> Mr. <hi>Feak</hi> shewed the contrary, in <hi>Acts</hi> 4.24. And I could shew another Scripture, <hi>Acts</hi> 1.24, 25. where, in the chusing of another Apostle, <hi>Peter</hi>'s prayer was onely to that present occasion, and his Petitions summ'd up in two verses. Truely on the like oc<g ref="char:EOLhyphen"/>currence, as chusing an Elder, <hi>&amp;c.</hi> not onely the Presbyterian Classis, but the Independent Churches, would have made a Prayer of an hour long at least, and not one, but many; and much confession also.</p>
+                  <p>Master <hi>Simpson</hi> brought forth <hi>Daniel confessing</hi> his sins,
+<note place="margin">Dan. 9.4. to 19.</note>
+                     <hi>&amp;c.</hi> But what proof is that <hi>under the Law,</hi> to the <hi>Gospel-spirit of prayer?</hi>
+                  </p>
+                  <p>I'll say no more; 'tis but a Narrative I publish, to prevent misreports, and, if possible, the mistakes of many precious Saints.</p>
+                  <p>I will not repeat any thing of Mr. <hi>Simpson</hi>'s
+<pb n="5" facs="tcp:118397:5"/>Sermon, how <hi>lowe and Legal</hi> it was;
+<note place="margin">On 1 Joh. 3.22.</note> let the wise speak: I shall onely give an account of my de<g ref="char:EOLhyphen"/>portment there, which so many judge I know not what,
+<note place="margin">1 Cor. 4.3, 5.</note> neither do I care <hi>Mans judgement or day;</hi> the <hi>day of God</hi> will discover all <hi>things and thoughts,</hi> yea the hidden secrets of <hi>darkness,</hi> as well as that of <hi>light,</hi> very shortly.</p>
+                  <p>Though men said there, I was mad; yet true<g ref="char:EOLhyphen"/>ly I spake nothing but words of Soberness and Truth to me, with peace and love to all.</p>
+                  <p>My spirit indeed was exceedingly stirred; and though I came thither to hear in silence, yet <hi>my heart being hot, I spake at last with my tongue;</hi>
+                  </p>
+                  <p>
+                     <hi>Mr.</hi> Simpson, <hi>you have preached long; will you suffer another fool to speak a little concerning Prayer?</hi>
+                  </p>
+                  <p>Here, at first, a confused cry-arose from the great ones there, saying, <hi>Take him away.</hi> I said I would be gone. But others in the croud call'd upon me to speak. Some answered, 'Twas <hi>an E<g ref="char:EOLhyphen"/>piscopal spirit,</hi> or contrary to their <hi>own principles,</hi> to forbid any sober-minded or peaceable man from speaking his minde. I desired not that any trou<g ref="char:EOLhyphen"/>ble or tumult should be among them; therefore I once more in peace besought liberty to go on.</p>
+                  <p>There was still a reluctancie and secret <hi>murmur<g ref="char:EOLhyphen"/>ings</hi> in many: men and women by, bid me hold my peace. Then said I, <hi>Whether you will hear,</hi>
+                     <note place="margin">Ezek. 3.27</note>
+                     <hi>or whether you will forbear,</hi> I must speak a word; 'tis this, to the Churches.</p>
+                  <pb n="6" facs="tcp:118397:6"/>
+                  <p>
+                     <hi>Prelates had their Common Pray<g ref="char:EOLhyphen"/>ers, and your Prayers are common also; Presbyters had their Directory, so have you this day, teaching one another how to pray.</hi>
+                  </p>
+                  <p>One says it must be in <hi>short Petitions</hi> onely to the <hi>present</hi> purpose, without such enlarged <hi>Confessions;</hi> another <hi>contradicts,</hi> and says none are fit to pray, but <hi>such who are most humbled,</hi> &amp;c. (As if men could not be <hi>humbled without sight of sin:</hi> how then doth God humble himself,
+<note place="margin">Psal. 113.6 Phil. 2.8.</note>
+                     <hi>&amp;c.</hi> and how was <hi>Christ humble even to the death of the Cross?</hi>) Again, saith he, it must be with confession of sins, as <hi>Daniel</hi> did.</p>
+                  <p>Such <hi>Confusion</hi> me thought I saw on their spi<g ref="char:EOLhyphen"/>rits and mine, that I took leave to enlarge a little further, proving their present <hi>Devotions</hi> to be but as <hi>Common Prayers,</hi> because quite <hi>contrary to the practice of Primitive Churches,</hi> wherein Prayers were peculiar and proper onely to Saints, and among Saints alone, as <hi>fellowship and breaking of bread:</hi> And <hi>Prayers</hi> was a Private exercise of Saints together in the Church, not with the world, <hi>Acts</hi> 2.42. <hi>Acts</hi> 4.24. 1 <hi>Cor.</hi> 14.12, 15, 19, 26. vers. compared.</p>
+                  <p>Secondly, I shewed that Prayers were publike in the Jewish Church, that being a National Church, and the Church a Nation: Therefore where-ever the Nation met, Prayers might be
+<pb n="7" facs="tcp:118397:6"/>made (as <hi>Solomon</hi> and <hi>Nehemiah</hi>) and the Temple likewise was the <hi>house of Prayer,</hi>
+                     <note place="margin">1 King. 8.22. Neh. 9.</note> and they had <hi>hours of prayer,</hi> when <hi>Peter</hi> and <hi>Iohn</hi> went up to preach in publique, <hi>Act.</hi> 3.1. but they returned to their own company to pray, <hi>Act.</hi> 4.1, 23.</p>
+                  <p>I could not be suffered to speak any more, onely I told the Churches,</p>
+                  <p>
+                     <hi>Sirs, your Prayers are legal, and your Preachings legal: I see you are all in the dark, and so I bid you</hi> Good-night.</p>
+                  <p>As I was going away, I was will'd by some to stay, and to heare what the Ministers would an<g ref="char:EOLhyphen"/>swer; but they being silent, up starts a Martiall man, my very good friend in the Army, <hi>Major Packer.</hi>
+                  </p>
+                  <p>He stood up on a forme, and told the people of me, and of my Ranting Spirit.</p>
+                  <p>I would not give a Gentleman the lye; but I told him presently to his face, that he spake lyes before God and men; and he that could so openly lye to men, how could he dare to speak to God?</p>
+                  <p>But he was a souldier, and could venture at any thing in earth, and heaven also: for after he had vented his spleen, he falls on most valiantly to his prayers, with what Spirit, let men and Angells judge.</p>
+                  <p>I left the man of War praying, and the company in a peaceable posture: thus I departed with my
+<pb n="8" facs="tcp:118397:7"/>heart to heaven, waiting when God will come down, and manifest himself to all his people.</p>
+                  <p>Oh that the <hi>gathered Churches</hi> and <hi>scattered Saints</hi> could see themselves in Babylon, as <hi>dead dry bones,</hi> without breath or the Spirit of life, that they might once be made silent to God; and as those <hi>divided sticks</hi> in the Prophets hands, in which they shall all at last be raised up in one, <hi>Ezek.</hi> 37.11, 16, 17.</p>
+                  <p>But as yet they are <hi>dashing one</hi> against another, and so lie <hi>dead together,</hi> praying for many things with<g ref="char:EOLhyphen"/>out order, yea without any sense at all. Three things they pray for: but, 1. What is it for them to pray <hi>for the Spirit,</hi> who know not the want of the Spirit, the <hi>Baptisme of the Spirit</hi> being not <hi>in the Churches,</hi> nor the Church confessing this?</p>
+                  <p n="2">2. Why do the Churches now pray for <hi>a way of propagating the Gospell,</hi> seeing the wise know it cannot be, but by <hi>the Spirit</hi> and <hi>power from on high,</hi> not yet appearing in the Churches?</p>
+                  <p n="3">3. How can the <hi>Churches pray for an Union</hi> or love together, while they continue in <hi>divided formes,</hi> and <hi>defiled also?</hi>
+                     <note place="margin">Ezek. 37.23.</note> Could the Prelates and Presbyters ever unite? and can the Independent and Baptized Churches? they may in a form in outward fellow<g ref="char:EOLhyphen"/>ship, or common prayers.</p>
+                  <p>But never shall all the Saints unite, and come to one in love,
+<note place="margin">Isa. 26.8, 16, 20. Rev. 15.1. Isai. 32.13, 14, 15. Zech. 2.11.</note> till <hi>wrath be poured forth on all their Forms</hi> and <hi>Flesh</hi> (even 7 Vials full of the wrath of <hi>God in men.</hi>) Then the <hi>Spirit shall come from on high, and gather up all the Saints and men in God.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:118397:7"/>
+                  <p>THE Welsh Curate: Or, <hi>PAƲL</hi>'s CARE Of ALL THE CHURCHES <note place="margin">2 Cor. 11.28.</note> By WILL. ERBERY.</p>
+                  <q>Then said I, I will not seed you. That that dieth, let it die; and that that is to be cut off, let it be cut off: and let the rest eat every one the flesh of his [fellow-<hi>(Member,</hi> Hebr.] <bibl>
+                        <hi>Zech. 11.9.</hi>
+                     </bibl>
+                  </q>
+                  <p>Printed at <hi>London,</hi> 1652.</p>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb facs="tcp:118397:8"/>
+                  <pb n="1" facs="tcp:118397:8"/>
+                  <head>The Welsh Curate.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">P</seg>Aul</hi> was a <hi>Jew born at Tarsus,</hi>
+                     <note place="margin">Acts 22.3.</note> that is, a <hi>Welshman born;</hi> for <hi>Tarsus</hi> was a Sea Towne, so is <hi>Caraiffe in Wales.</hi>
+                  </p>
+                  <p>If <hi>Paul was all,</hi>
+                     <note place="margin">1 Cor. 9.22.</note> why not a <hi>Welshman?</hi> and if he was <hi>all to all,</hi> why not <hi>to us in Wales?</hi>
+                  </p>
+                  <p>
+                     <hi>Paul</hi> was the <hi>servant of Christ,</hi> so he is still; <hi>for all men live to God,</hi> and <hi>in him, Act.</hi>
+                     <note place="margin">Luke 20.38.</note> 27, 28.</p>
+                  <p>
+                     <hi>Paul</hi> was <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>No Man,</hi> but a <hi>follower of Christ;</hi> for Christ was indeed a worm, and <hi>No Man,</hi> Psal.
+<note place="margin">1 Cor. 11.1.</note> 22.6.</p>
+                  <p>If <hi>Abel being dead, yet speaketh,</hi> why not <hi>Paul,</hi>
+                     <note place="margin">Heb. 11.4. Col. 3.3. 2 Cor. 13.3. Joh. 14.10.</note> now he is dead? for <hi>dead was the Man,</hi> while he was alive; and <hi>Paul never spake a word to men, but Christ spake all in him;</hi> yea the <hi>Man Christ never spake, but God even
+<pb n="2" facs="tcp:118397:9"/>the Father</hi> was all in him, as <hi>Christ in</hi> Paul, <hi>and in all, was All in All,</hi> Col. 3.11.</p>
+                  <p>That <hi>God and Father</hi> which was in the <hi>flesh of Christ,</hi>
+                     <note place="margin">Joh. 20.17. 2 Cor. 4.11.</note> was in <hi>Paul</hi>'s, whose <hi>flesh was crucified to God,</hi> as Christ's was in dying: and so <hi>Paul</hi> was <hi>crucified with Christ,</hi>
+                     <note place="margin">Gal. 2.20.</note> who yet <hi>lived in him.</hi>
+                  </p>
+                  <p>And yet <hi>Paul,</hi> while <hi>persecuting the Saints,</hi> was said <hi>to persecute Christ,</hi>
+                     <note place="margin">Acts 9.5.</note> Christ <hi>in them,</hi> that's <hi>God in their flesh,</hi> or <hi>God powerfully appearing in them,</hi> that's the <hi>Spirit,</hi>
+                     <note place="margin">1 Tim. 1.13.</note> which <hi>Paul</hi> persecuted then, and the Chur<g ref="char:EOLhyphen"/>ches now, though ignorantly.</p>
+                  <p>The same <hi>Spirit or power of God</hi> appeared after<g ref="char:EOLhyphen"/>ward <hi>in Paul.</hi>
+                     <note place="margin">2 Cor. 13.4 1 Pet. 3.18. compared. Acts 23.1. Acts 9.15. compared.</note> 'Twas there before: for <hi>God was in Him, and He in Christ;</hi> though <hi>Christ was not yet revealed in him,</hi> till God was <hi>powerfully brought forth in his flesh.</hi>
+                  </p>
+                  <p>This was <hi>Paul</hi>'s <hi>conversion,</hi>
+                     <note place="margin">Gal. 1.15, 16.</note>
+                     <hi>and his call to the Mini<g ref="char:EOLhyphen"/>stery,</hi>
+                     <note place="margin">Acts 13.2. Rom. 15.18, 19</note> when, <hi>Not the Church,</hi> but the <hi>Spirit separated</hi> Paul <hi>to that work;</hi> wherein he not onely <hi>preacht to the world,</hi> but had the <hi>care of All the Churches,</hi> 2 Cor. 11.28.</p>
+                  <p>
+                     <hi>Paul</hi>'s care was,
+<note place="margin">1 Cor. 11.34. Acts 14.23. Tit. 1.5.</note> to <hi>set in order all things</hi> in the Churches, to <hi>ordain Elders,</hi> who were to officiate in Ordinances to every Church, <hi>Acts</hi> 20.7.17. com<g ref="char:EOLhyphen"/>pared.</p>
+                  <p>The first <hi>Gospel-Ordinance</hi> was <hi>the Baptism of the Spirit,</hi> without which the Saints could not be set in <hi>Gospel-order.</hi>
+                     <note place="margin">Acts 1.4, 5.</note>
+                  </p>
+                  <p>
+                     <hi>Fellowship</hi> was the next, which was <hi>in the Spirit onely;</hi> Gospel-order among them being <hi>the manife<g ref="char:EOLhyphen"/>station of the Spirit in manifold gifts;</hi>
+                     <note place="margin">1 Cor. 12.7, 11</note> and this was the fruit of that Baptism, or the <hi>Baptism of the Spirit
+<pb n="3" facs="tcp:118397:9"/>indeed.</hi> Acts 2.33, 38. compared.</p>
+                  <p>In breaking of bread,
+<note place="margin">1 Cor. 11.29.</note> they not onely <hi>discerned the Lords body,</hi> but <hi>drank into one Spirit,</hi> 1 Cor. 12.13.
+<note place="margin">1 Cor. 14 15.</note>
+                  </p>
+                  <p>They did <hi>pray in the Spirit, sing in the Spirit;</hi>
+                     <note place="margin">1 Cor. 14.15.</note> which were not onely the <hi>common goings forth of the Spirit in the hearts of the Saints,</hi> as 'twas under the Law,
+<note place="margin">1 Cor. 14.1, 12.</note> but <hi>special and powerful appearances and operations of the Spirit,</hi> or spiritual gifts: as a <hi>Tongue, Interpretation, and Revelation,</hi> were also <hi>Gospel-Ordinances,</hi>
+                     <note place="margin">1 Cor. 14.26.</note> and all for the <hi>edifying of the Church.</hi>
+                  </p>
+                  <p>But the first Ordinance, the <hi>Baptism of the Spirit,</hi> though <hi>on the Church,</hi> yet was it <hi>for the world;</hi> the rest were <hi>for the weak in the Church.</hi>
+                     <note place="margin">1 Cor. 14.22.</note> For as <hi>signes were for unbelievers,</hi> and those <hi>visible gifts of the Spirit were for the world,</hi> to draw their ears to the Gospel,
+<note place="margin">Vers. 25.</note> and their eyes <hi>to the Churches of Saints:</hi> so, for the <hi>weaks</hi> sake among them, other <hi>Ordinances and Officers</hi> also were ordained; whereas the <hi>strong,</hi>
+                     <note place="margin">Phil. 3.15. 1 Joh. 2.27.</note> who were <hi>spiritual</hi> and perfect, had <hi>the Anointing</hi> in them, that they <hi>needed not any man to teach them.</hi> So the <hi>Ba<g ref="char:EOLhyphen"/>ptism of water</hi> was for a time,
+<note place="margin">Joh. 3.30. Acts 16.3.</note> because of the <hi>weak disciples of John</hi> called to Christ; as <hi>Circumci<g ref="char:EOLhyphen"/>sion continued in the Church for the weak sake of the Jews.</hi> For as the Ministery of <hi>Apostles, Prophets, Pastors and Teachers,</hi> was onely <hi>till all the Saints should come to the knowledge of the Son of God, to a perfect man,</hi>
+                     <note place="margin">Eph. 4.13.</note>
+                     <hi>to the fulness of the stature of Christ,</hi> which was to be in this life; for the <hi>unity of faith</hi> there declares it:
+<note place="margin">1 Cor. 11.26.</note> so <hi>breaking of bread</hi> was to <hi>shew forth the Lords death till he come,</hi> that is, till the same should be revealed fully in them all, and All <hi>be gathered up unto Christ.</hi>
+                     <note place="margin">2 Thess. 2.1.</note>
+                  </p>
+                  <p>And though the Apostle did joyn in Ordinances
+<pb n="4" facs="tcp:118397:10"/>with the Churches, yet it was because <hi>he was All to All, and could be weak with the weak, as a Jew to the Iew:</hi> for even <hi>Gospel-Ordinances</hi> in themselves, were but a <hi>Legal Dispensation,</hi> and <hi>gifts of the Spirit</hi> likewise, for the Church under the Law had the same,
+<note place="margin">1 Sam. 19.20. 2 King. 4.35. 2 King. 2.21.</note> both gifts of <hi>Prophecie,</hi> of <hi>healing, signes, raising the dead, &amp;c.</hi> yea, the dead Prophets bones raised up ano<g ref="char:EOLhyphen"/>ther, 2 <hi>King.</hi> 13.21.</p>
+                  <p>Therefore the <hi>present Churches are far belowe</hi> the Legal or Jewish Church <hi>under the Law:</hi> which proves the Apostacie or <hi>falling away</hi> to be alrea<g ref="char:EOLhyphen"/>dy, and long since, though not revealed till now the Churches are come up to <hi>purest forms,</hi> where yet the Ordinances are defiled, and fail in spirit and form from the first.</p>
+                  <p>Thus the Spirit <hi>not appearing</hi> in them,
+<note place="margin">2. Thess. 2.7. He that letteth <hi>was the Spirits presence; which being</hi> taken a<g ref="char:EOLhyphen"/>way, <hi>or not ap<g ref="char:EOLhyphen"/>pearing any more in the Church, the Mystery of Iniquity is now Revealed fully; for 'twas before in part to former Ages.</hi>
+                     </note> 'tis the wis<g ref="char:EOLhyphen"/>dom of God this way to <hi>befool the world,</hi> and the wisest of the <hi>Churches,</hi> who coming neerest to <hi>Go<g ref="char:EOLhyphen"/>spel-order in form,</hi> they must be the first in whom the <hi>spirit of Antichrist</hi> must come forth with <hi>power</hi> to appear in them and to All.</p>
+                  <p>Now <hi>Paul</hi> comes to take <hi>care of all the Churches,</hi> whom as an Apostle he had prophesied <hi>to be cut off,</hi> and as a Prophet foresaw the <hi>falling away to come,</hi> Rom. 11.22. 2 <hi>Thess.</hi> 2.3.</p>
+                  <p>
+                     <hi>Paul</hi>'s <hi>spirit</hi> runs down thorow <hi>all ages since the A<g ref="char:EOLhyphen"/>postacie,</hi> in various discoveries of it in <hi>the Churches,</hi> and of <hi>God in Men;</hi> some knowing more, some less of the <hi>Mystery</hi> both <hi>of God,</hi> and the <hi>Mystery of Ini<g ref="char:EOLhyphen"/>quity:</hi> but now the seventh Angel begins to sound, <hi>each Mystery is finishing.</hi>
+                     <note place="margin">Rev. 10.7.</note>
+                  </p>
+                  <p>And <hi>Paul</hi>'s spirit in many must feel still <hi>the stroak
+<pb n="5" facs="tcp:118397:10"/>of that suffering</hi> which has been from the begin<g ref="char:EOLhyphen"/>ning: Therefore when <hi>Babylon</hi> falls, 'tis sung in heaven, <hi>Rejoyce over her,</hi>
+                     <note place="margin">Rev. 18.20.</note>
+                     <hi>ye holy Apostles and Pro<g ref="char:EOLhyphen"/>phets.</hi>
+                  </p>
+                  <p>
+                     <hi>Paul's care</hi> is now of <hi>all the Churches</hi> in <hi>Babylon,</hi> not to build them up, as before, but break them down, because <hi>'tis a confusion</hi> more then that of the <hi>Iewish Church</hi> in Captivity, <hi>to build a Temple in Baby<g ref="char:EOLhyphen"/>lon.</hi>
+                  </p>
+                  <p>Before I shall speak of this, let me speak a little of <hi>Paul,</hi> and the wonderful wisdom of God to chuse such a man, to take care of all the Churches, who was the greatest persecutor, and in zeal perse<g ref="char:EOLhyphen"/>cuting the Church. Again, that <hi>a Iew</hi> should be the Apostle of the <hi>Gentiles.</hi> Again, that none of the Apostles whom <hi>Christ in the flesh</hi> called and com<g ref="char:EOLhyphen"/>missioned to Teach all Nations, and Baptize, should be the first who did preach the Gospel to the world. Again, that <hi>Paul</hi> alone, with <hi>Barnabas,</hi> was the first <hi>separated by the Spirit</hi> for that work. Fourth<g ref="char:EOLhyphen"/>ly, that <hi>Paul</hi> being a <hi>Iew,</hi> should be the first who set in <hi>order the Churches of the Gentiles.</hi> Fifthly, all the <hi>Gathered Churches</hi> had no other Curate but <hi>Paul:</hi> for he wrote Epistles to them all, (and first, to the Church of <hi>Rome</hi>) for the other Apostles Epistles were <hi>to the scattered Saints.</hi> Lastly, 'tis not a little to me, that the <hi>Romane Church</hi> to this day own no Apostle <hi>nor Vicar</hi> of Christ <hi>but Peter;</hi> whereas <hi>Paul</hi> indeed was the onely <hi>Curate to take care of all the Churches.</hi>
+                  </p>
+                  <p>Adde to this, that <hi>Paul</hi> found <hi>Peter in a fault;</hi>
+                     <note place="margin">Gal. 2.11.</note> which was a spiritual priviledge, in that he was
+<pb n="6" facs="tcp:118397:11"/>free;
+<note place="margin">1 Cor. 4.4. Acts 24.14.</note> for, <hi>he knew nothing of himself,</hi> nor <hi>others blame<g ref="char:EOLhyphen"/>worthy</hi> in him, though the Church of the Jews said be was an <hi>Heretick,</hi>
+                     <note place="margin">Acts 24.5. <gap reason="foreign" resp="#oxf">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> a pest or plague, <hi>&amp;c.</hi> and some of <hi>Rome</hi> say that <hi>Paul</hi> was a hare-brain'd fellow.</p>
+                  <p>Besides, 'tis something to me, that <hi>Paul never owned himself as an Elder,</hi>
+                     <note place="margin">1 Pet. 5.1.</note>
+                     <hi>which Peter did;</hi> yet <hi>Peter</hi> gives a Prophetick check to Church-Elders this day,
+<note place="margin">Vers. 3. <gap reason="foreign" resp="#oxf">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> not to be <hi>Lords over Gods heritage,</hi> or <hi>Clergie,</hi> as the Greek is; so the Church is called, not the Ministers, as now. But that of <hi>Peter</hi> was not so well applied to the Prelates, or <hi>Lord Bishops;</hi> but is pat to the <hi>Presbyters</hi> or <hi>Elders</hi> of Churches: for, to those onely the Apostle here speaks.</p>
+                  <p>What, will <hi>Peter joyn with Paul,</hi> to take care, and throw down all the Churches? Yea, these two may be <hi>the two Witnesses.</hi>
+                     <note place="margin">Rev. 11.3.</note> Two is but few; yet a full witness in those few Saints this day, in <hi>whom the spirit of Paul and Peter is risen,</hi> as <hi>Elias was in John,</hi> Matth. 17.12. These must be no more Apostles, but <hi>prophesie in sackcloth,</hi> in a sorrowful and <hi>suffering</hi> condition, <hi>Rev.</hi> 11.3.</p>
+                  <p>Now there's <hi>no more care of Churches:</hi>
+                     <note place="margin">Rev. 11.2.</note> for, <hi>the Temple, and those who worship God in spirit, are to be measured;</hi> but <hi>the outward court</hi> (where the Church met) that is, Church-fellowship and Ordinances, <hi>are given to the Gentiles.</hi>
+                  </p>
+                  <p>
+                     <hi>Gentile Christians have enjoyed all Ordinances to this day;</hi> and though Saints are in Church-fellowship still, yet in truth that belongs not to them; 'tis long since given away to those belowe them, though they knew it not: and though they have <hi>taken it from the Gentiles,</hi> 'tis plain Theft and Rob<g ref="char:EOLhyphen"/>bery,
+<pb n="7" facs="tcp:118397:11"/>not <hi>in the State,</hi> but in the <hi>Churches of Saints,</hi> to take away the peoples Common-Prayers, Pa<g ref="char:EOLhyphen"/>rish-Communions, Christening of children, <hi>&amp;c.</hi> But the <hi>purest Churches</hi> are come pretty neer to <hi>the Gentiles</hi> in this,
+<note place="margin">Matth. 6.35.</note> and in seeking earthly things be<g ref="char:EOLhyphen"/>come Gentiles indeed, never more, as in <hi>earthly Ordinances</hi> also, for so they are now; the <hi>heavenly Spirit,</hi> or power from on high, not <hi>appearing</hi> with them; yea, quite contrary to the <hi>letter of Scripture,</hi> as some Baptize with water,
+<note place="margin">Act. 11.4. Act. 2.38.</note> before the <hi>Baptism of the Spirit</hi> be come on the Churches: so others <hi>ba<g ref="char:EOLhyphen"/>ptize children,</hi> and <hi>break bread in publike,</hi> or in the Parish-Church, whereas primitive Saints did this <hi>onely in private at home,</hi> as the Greek renders;
+<note place="margin">verse 47. <gap reason="foreign" resp="#oxf">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> or from house to house, as our English Bibles; besides, their Common-prayers, as was said before.</p>
+                  <p>But <hi>Paul</hi> and <hi>Peter</hi> being turned Prophets,
+<note place="margin">Bishop of Lon<g ref="char:EOLhyphen"/>don.</note> not onely by holding forth the <hi>pattern and practice of Go<g ref="char:EOLhyphen"/>spel-Churches,</hi> but by their own spirit breathing in some <hi>scattered Saints,</hi> do confound all the <hi>gathered Churches;</hi> who, as they cannot follow after spiri<g ref="char:EOLhyphen"/>tual gifts (this being also the command of Christ in the Apostles) so their Pastors and Teachers finding Secular places, and Martial employments,
+<note place="margin">1 Cor. 14.1, 12.</note> as Colonels, Captains, and Majors, must needs be routed by the sword of the Spirit, and Ordinance of the Apostles, 1 <hi>Tim.</hi> 4.13. to 16. and Chap. 6.14.</p>
+                  <p>Hark how the Apostle roars, and chides the Churches. Is this <hi>the Order</hi> I set you in? To creep together six or seven in a <hi>corner;</hi> then to close in a <hi>Govenant:</hi> thirdly, to cause the rest of the Saints
+<pb n="8" facs="tcp:118397:12"/>to wait at <hi>your Church-doors for admission?</hi> This is your <hi>Church</hi>-way indeed; but where do you hear in the Gospel of such a Company, of such a <hi>Church-Covenant,</hi> of closing of spirits, of such an <hi>admission of all?</hi> Where do ye finde that word, or the Thing? <hi>Admission of members</hi> manifests some Authority and Power in the <hi>fellow-members</hi> made up into a <hi>Body</hi> before: But was this ever a<g ref="char:EOLhyphen"/>mong visible Saints, that some should be left be<g ref="char:EOLhyphen"/>hinde out of the Church? Must any of the mem<g ref="char:EOLhyphen"/>bers be out of the Body?</p>
+                  <p>Again, <hi>Admission</hi> intimates the Church of Christ to be a <hi>Corporation,</hi> as if there were a Common Councel among them: whereas the Church is a <hi>Free company,</hi> or Society of <hi>Friends,</hi> who come to<g ref="char:EOLhyphen"/>gether, not as called by an <hi>outward power,</hi> but freely closing by the <hi>inward spirit.</hi>
+                  </p>
+                  <p>Therefore the adding of those to the Church, was nothing but a voluntary joyning of them whom the Lord did call.
+<note place="margin">Act. 2.41.</note>
+                  </p>
+                  <p>Neither was there need of <hi>a confession of sins, or of their faith</hi> (as <hi>John</hi>'s disciples did) to be recei<g ref="char:EOLhyphen"/>ved; but a <hi>readiness</hi> of minde to walk with the Saints.</p>
+                  <p>Neither did poor Saints wait a yeer or two, as 'tis with our New English Churches in <hi>England</hi> and <hi>Wales,</hi> (though the Rich are sooner received;) but they did joyn, without being judg'd or questi<g ref="char:EOLhyphen"/>oned at all.</p>
+                  <p>Yea, <hi>Paul,</hi> an open persecutor, and newly con<g ref="char:EOLhyphen"/>verted, though none almost knew it, yet seeking to joyn with the Saints, was presently embraced,
+<pb n="9" facs="tcp:118397:12"/>meerly on the Testimony of one man, <hi>Acts</hi> 9.27.</p>
+                  <p>Where's then, saith <hi>Paul,</hi> all your Church-fel<g ref="char:EOLhyphen"/>lowship? Is this the Order of the Gospel you talk of? Was there ever a Gospel-order, before the Bap<g ref="char:EOLhyphen"/>tism of the Spirit? And what's the Baptism of the Spirit, but pouring all Spiritual gifts on the Church? for the Church under the Law had some, as I said before.</p>
+                  <p>Why, saith <hi>Paul,</hi> the Apostles themselves could not go forth, to teach all Nations and baptize; till they were Baptized of the Spirit.</p>
+                  <p>Yea,
+<note place="margin">Math. 28.29.</note> though they were <hi>called and commissioned</hi> by Christ himself before; yet they must abide at <hi>Jerusalem:</hi> and how can ye poor creatures go forth, who were never sent by Christ, nor by the Spirit from on high?</p>
+                  <p>And will ye offer to go before the Lord? to run; before ye be sent? the false Prophets of old would run, <hi>&amp;c.</hi> that shews your readiness to go,
+<note place="margin">Jer. 23.21.</note> because you are not the true.</p>
+                  <p>Were it not better for you (Brethren) <hi>to abide at Ierusalem?</hi> that is, the indwellings of God in you;
+<note place="margin">Act. 1.4.</note> this might content you for a time, to wait in your spiritual weakness, and bewildernessed state, till power come from on high, to carry ye forth to the world.</p>
+                  <p>But why do ye not Catechize, not your Chil<g ref="char:EOLhyphen"/>dren, but your Chuches? Why do ye not teach them the Principles of Christ, the Doctrine of <hi>Baptisms,</hi> and laying on of hands? <hi>Heb.</hi> 6.1, 2.</p>
+                  <p>Tis not Baptisme, but <hi>Baptismes,</hi> the Churches
+<pb n="10" facs="tcp:118397:13"/>should know; not the Baptisme of water, but of fire; this is fittest for a Gospel-Church: the Bap<g ref="char:EOLhyphen"/>tisme of Water was but a legal Ordinance: there<g ref="char:EOLhyphen"/>fore <hi>Iohns</hi> Baptisme was no news to the <hi>Iewes,</hi> and twas long before the Gospel-Churches.
+<note place="margin">Joh. 1.25.</note>
+                  </p>
+                  <p>But who Baptizeth into the name of the Father, Son, and Spirit? tis not in the name, for every Pa<g ref="char:EOLhyphen"/>pist can do that: but why must it be even in them form of words? why not Baptize in the name of Christ Jesus? and what's the name of Christ, but the promise of the Father, and power of the Spi<g ref="char:EOLhyphen"/>rit?</p>
+                  <p>This Primitive Believers were <hi>Baptized into,</hi>
+                     <note place="margin">1 Cor. 12.13. Act. 2.38.</note> and the promise of the holy Spirit was ever annexed to the <hi>Baptisme</hi> of water: but this of water, was not meant in the Apostles Commission; for <hi>God sent me not to Baptize,</hi>
+                     <note place="margin">1 Cor. 1.17.</note> saith <hi>Paul.</hi> Therefore to Bap<g ref="char:EOLhyphen"/>tize into the name of the Father, Son, <hi>&amp;c.</hi> is the <hi>Spirits</hi> baptisme, or spiritual gifts received.</p>
+                  <p>For, was not the <hi>manifestation of the Spirit</hi> given to every one to profit withall? and were not gifts divided to <hi>every one,</hi>
+                     <note place="margin">1 Cor. 1.7, 11.</note> as he pleased?</p>
+                  <p>Here <hi>Paul</hi> cries againe to the Churches, Who taught you to distinguish of ordinary and ex<g ref="char:EOLhyphen"/>traordinary?
+<note place="margin">Eph. 4.8.11. 1 Cor. 12.21. 1 Cor. 14.26. compared.</note> as if the <hi>gifts of Christ, or gifts of the Spirit,</hi> were not the orderly and ordinary con<g ref="char:EOLhyphen"/>stitution of a Gospel-Church.</p>
+                  <p>Why are not the Apostles as necessary to preach to the world, as Pastors to teach in the Church? Pastors and Teachers must stay at home with the Church; who must go forth to the world? who told you of Itinerants, and lazy Lecturers?</p>
+                  <pb n="11" facs="tcp:118397:13"/>
+                  <p>Or that the gifts of the Spirit were extraordinary also, seeing all spiritual gifts,
+<note place="margin">2 Cor. 11.28.</note> were for the edifying of the Church? and is not the edifice then fallen into a confusion, or <hi>Babel,</hi> since there is not the gift of a Tongue to tell us the true Originals; nor of Interpretation to Translate them aright? And are not these two gifts of the Spirit more necessary now then at the first, since the Apostacy is come, and corrupted the form of sound words in Do<g ref="char:EOLhyphen"/>ctrine and worship? Whence gave I you, saith <hi>Paul,</hi> the least hint in all my Preachings or Epistles, that the Churches of Christ should be for a time with gifts of the Spirit, and for after-times with<g ref="char:EOLhyphen"/>out them? was not this the Apostacy,
+<note place="margin">1 Cor. 5.4. 1 Tim. 1.20. compared.</note> and falling away I told you? and are you not there? can ye finde my Spirit among you? can any of you then cast out a member to Satan?</p>
+                  <p>Lastly, Has any of you Ministers the laying on of hands of the Presbytery?
+<note place="margin">1 Tim. 4.14. 2 Tim. 1.6.</note> was ever any Pres<g ref="char:EOLhyphen"/>byter or Elder ordained without an Apostle or his delegate the Evangelist?
+<note place="margin">Tit. 1.5. Mat. 16.18. James 5.14. compared.</note> can any ordination accor<g ref="char:EOLhyphen"/>ding to the Gospel be, or laying on of hands with<g ref="char:EOLhyphen"/>out a gift of the Spirit given thereby?</p>
+                  <p>Are not all your Ordinances, then, the <hi>instru<g ref="char:EOLhyphen"/>ments of a foolish Shepherd?</hi>
+                     <note place="margin">Zach. 11.15.</note> and are not all your Shepherds Idols? Idol-Shepherds indeed, that can<g ref="char:EOLhyphen"/>not see our stand at all.</p>
+                  <p>Yea <hi>Pauls</hi> Spirit,
+<note place="margin">Zach. 11.17.</note> and <hi>Peters</hi> Sword smites upon your <hi>arme and right eye,</hi> upon the Spiritual sight and strength of such Idol-<hi>Shepherds;</hi> who leaving their flocks and fellowships, or neglecting the Spi<g ref="char:EOLhyphen"/>rit of prayer and Ministery of the word, give them<g ref="char:EOLhyphen"/>selves
+<pb n="12" facs="tcp:118397:14"/>to the world,
+<note place="margin">See Act. 6.2.4.</note> or to <hi>serving of Tables:</hi> this be<g ref="char:EOLhyphen"/>ing once so good a work, as taking <hi>care for the poor,</hi> could not be followed then by Ministers or Pa<g ref="char:EOLhyphen"/>stors; much less to plunder the rich, and purchase the states of Delinquents, or to wait on Committees Tables.</p>
+                  <p>Dear Father! what a world is this? nay what <hi>Churches</hi> are these? <hi>Paul</hi> must come to <hi>take care</hi> of them all, and pull them down quickly, <hi>his Spirit being not to be found among them.</hi>
+                  </p>
+                  <p>Oh!
+<note place="margin">2 Cor. 15.34. 2 Cor. 4.10.</note> how <hi>Pauls dying every day, and the dying of the Lord Jesus in his mortal body,</hi> doth break down the walls of the Churches! their <hi>lusty livings,</hi> their worldly pomp and ease, their full bellies and fine backs.</p>
+                  <p>Great care doth <hi>Paul</hi> take of all the Churches, to see and search them out, if he can finde any but to speak his words;
+<note place="margin">1 Thes. 2.5.6. 1 Cor. 10.33. 2 Cor. 12.15.</note> not seeking mine <hi>owne profit,</hi> but the <hi>profit of many,</hi> not seeking yours but you, <hi>to spend and be spent,</hi>
+                     <note place="margin">1 Thes. 2.9.</note> &amp;c. for you; not to spend his breath onely in a <hi>Sermon</hi> or two once a day, but his state also, according to the words of our Lord Je<g ref="char:EOLhyphen"/>sus,
+<note place="margin">Act. 20.35. compared. Luke 8.3. John 12 6. compared 2 Cor. 8. throughout 1 Thes. 2.8. compared.</note> and his examples also; <hi>being more blessed to give then to receive,</hi> &amp;c. yea though he was <hi>ministred</hi> un<g ref="char:EOLhyphen"/>to, yet he had a <hi>bag for the poor;</hi> as <hi>Pauls</hi> care was more abundant for them, then for himself, whose <hi>spirit, state,</hi> yea whose <hi>soul</hi> he was willing to bestow upon them.</p>
+                  <p>Oh! how <hi>Pauls care for the Churches,</hi> doth tear the Pastors and Teachers <hi>in pieces,</hi> who run from Parish to Parish, from place to place, from Le<g ref="char:EOLhyphen"/>ctures and Livings, where they can get the best;
+<pb n="13" facs="tcp:118397:14"/>not considering how their maintenance comes in through the bowels of the poor,
+<note place="margin">Act 29.6, 31, 34. verses 1 Cor. 9.18. 1 Thes. 2.9. compared.</note> from the empty bellies and sweat of hard-labouring men.</p>
+                  <p>Besides thy care of the Churches, teaching them three yeares with tears, both publickly and from house to house, Come forth, dear <hi>Paul,</hi> and tell us a way of propagating the Gospel to the world; <hi>la<g ref="char:EOLhyphen"/>bouring and travelling night and day, that we might not be chargeable unto you: yea these hands have ministred to my necessities, and to those that were with me, that we might not make the Gospel of charge.</hi>
+                  </p>
+                  <p>
+                     <hi>Paul</hi> the <hi>Aged,</hi> and prisoner of Jesus Christ,
+<note place="margin">Philem. 9. Joh. 21.18.</note> and <hi>Peter</hi> also <hi>when old,</hi> was thus, whereas some pittiful regard might be had to their feeble persons. Oh how doth this now plague our young lusty Scho<g ref="char:EOLhyphen"/>lars, and Souldiers, and Trades men, who would <hi>go forth as preachers</hi> of the Gospel,
+<note place="margin">Mich. 2.11. Mich. 3.5, 6. compared.</note> yet dare not live <hi>of the Gospel,</hi> nor trust God, till they have a com<g ref="char:EOLhyphen"/>mand, and setled <hi>maintenance from men.</hi>
+                  </p>
+                  <p>Yea, how do these two <hi>Witnesses</hi> or Prophets,
+<note place="margin">Rev. 11.10.</note> this day, <hi>torment them that dwell on earth,</hi> or on any thing below the Lord himself!</p>
+                  <p>Truly, Brethren, for my part, <hi>I am no Prophet,</hi>
+                     <note place="margin">Zach. 13.5.</note>
+                     <hi>nor the son of a Prophet,</hi> but am trembling at the word of God; and 'tis not my content or temper, to con<g ref="char:EOLhyphen"/>tend with men, and torment them: Onely I must say one word with the Prophet, <hi>Wo is me, my mother,</hi>
+                     <note place="margin">Jer. 15.10.</note>
+                     <hi>that thou hast made me a man of contention to all the earth;</hi> that's the Church; for this is the earth which the Prophets tells us <hi>The Lord will tumble and turne upside downe,</hi> and thrust out all the Inhabi<g ref="char:EOLhyphen"/>tants thereof, <hi>Isa.</hi> 24.1, 6. that is, out of Church<g ref="char:EOLhyphen"/>doores;
+<pb n="14" facs="tcp:118397:15"/>for the City of confusion is fallen, and every house is shut up, and <hi>no man can enter in</hi> to Church, verse 10.</p>
+                  <p>'Tis not the City of <hi>London,</hi> nor other Cities, as some poor Saints, in the Spirit of burning, have cry'd in our streets;
+<note place="margin">Rev. 16.19.</note> but the <hi>Cities of the Nations,</hi> or the National Churches, and gathered ones, all must be scatterd, and snared, and broken <hi>Fear and the pit, and the snare, are upon thee, O in<g ref="char:EOLhyphen"/>habitant of the earth,</hi> verse 17. <hi>The Earth reels to and fro like a drunken man,</hi> verse 20. It reeled from Popery to Prelacy, from Prelacy to Presby<g ref="char:EOLhyphen"/>tery, from Presbytery to Independency, and now the <hi>whole Earth,</hi> in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> is reeling from Independency, to Anabaptisme; as if the world were running into its first <hi>Chaos,</hi> and to be covered againe with waters, verse 23.</p>
+                  <p>
+                     <hi>Wo is me my mother,</hi> that thou hast <hi>made me a man of cantention to all the Earth:</hi> First to Prelates, then to Presbyters, now again to Independent and Bap<g ref="char:EOLhyphen"/>tized Churches: Alas! that I must fall upon them in their owne City and quarters, that a naked man must rush upon their swords points, upon all pikes, their powers, and places of strength.</p>
+                  <p>Wo is me, it is my misery, that contrary to my owne principles of light and love to the Saints, I must be made a man of war and wrath to the Churches; not that I do professe my self above all Ordinances, but far below them, not seeing that Spirit of life which once appeared with them, nor any Gospel-Ordinance at present according to the letter of Scriptures, neither the <hi>baptisme of the Spirit,</hi>
+                     <pb n="15" facs="tcp:118397:15"/>which was the first, nor <hi>fellowship,</hi>
+                     <note place="margin">Act. 1.5. Act. 2.42.</note> nor <hi>breaking of Bread,</hi> nor <hi>Prayers,</hi> as they were: And yet I am in a lower form then any of the Churches: theirs are for edification, mine for destruction; they edifie one another, <hi>and build in Babylon,</hi> and I break down or <hi>destroy</hi> both it and them, and my self in it with them: their forms and my flesh suffer together, not onely in my outward comforts, but my inward also
+<note n="*" place="margin">What peace is it with me, to war with my brethren? what joy to have wrath with my beloved? to wash my hands in my owne blood, and to tear my flesh with my teeth?</note>, my peace and joy, for this and all, is but the <hi>goodliness of flesh,</hi> which must wither, when the <hi>Glory is to be revealed</hi> in it, <hi>Isa.</hi> 40.5, 6. compare.</p>
+                  <p>What's the Glory?
+<note place="margin">Rom. 8.18. Zach. 2.5. Rev. 21.3.</note> but <hi>God himself</hi> in the midst of his people: what's this? but the new <hi>Ierusalem:</hi> what's that? but when <hi>God shall dwell with men,</hi> or discover himself with glory in them: when this glory is brought forth in the Saints,
+<note place="margin">Rev. 21.2. Col. 3.3. Gal. 4.26. compare</note>
+                     <hi>Ierusalem</hi> is said <hi>to come down from God out of heaven;</hi> in whom, because all our <hi>life is hid or wrapt up,</hi> as in the <hi>womb of eternity, Ierusalem is called the mother of us all.</hi> This my Mother hath made me a wretched man, before my Brethren be brought forth with me, and gather<g ref="char:EOLhyphen"/>ed up together into our God &amp; Father; then we are <hi>out of Babylon,</hi> out of bondage from earth, and from things below; for <hi>Ierusalem that is above, is free,</hi>
+                     <note place="margin">Ezek. 9.3, 6. Ezek. 37.2, 11.</note> free from <hi>formes and flesh,</hi> for both is earth, and lower then that now since the Apostacy, the <hi>Spirit of life</hi> being so long departed from the <hi>Temple,</hi> we are not only <hi>dead,</hi> but <hi>dry bones, yea very dry,</hi>
+                     <note place="margin">Ezek. 37 16</note> &amp; divided <hi>sticks also,</hi> so our Societies are in gathered Churches, and so are our Spirits, even the best of scattered Saints, are divided from others, and in themselves likewise, dashing against their owne light in their confused
+<pb n="16" facs="tcp:118397:16"/>knowledge, or defiled converse, and love to the earth; yea their love to heavenly things and persons is <hi>darkned,</hi>
+                     <note place="margin">Isa. 59.10, 11.</note> that they see not what or who is next, and so they smite or <hi>stumble over</hi> those who are nearest to them.</p>
+                  <p>'Tis my misery (among many brethren) to be thus to my most beloved, and cruel to my owne bowels; yet thus I must be for a time, being <hi>made so</hi> of God, a man of war (as I said) and that's the lowest form for spiritual Saints: those in the Army will confess, they are in the lowest dispensation that can be; Gospel-Saints were never so, to kill, and destroy, and be <hi>Butchers</hi> of mankind; whereas <hi>Saviours shall come from Sion:</hi>
+                     <note place="margin">Obad. 21.</note> so army-men are not yet, nor can be; they have been skilful to destroy, so they are still, and must be so, having neither skill nor spirit to settle the State in rest and righteous<g ref="char:EOLhyphen"/>ness,
+<note place="margin">1 King. 2.5. 1 Chron. 22.8. Rev. 13.8. compared.</note> not out of self-ends onely: but being <hi>men of blood</hi> (as <hi>David</hi> was) they shall not have the honour to build <hi>the Lords house,</hi> nor settle any thing for the good of Man or Commonwealth; though I be<g ref="char:EOLhyphen"/>leive in pure sincerity and zeal they have destroy<g ref="char:EOLhyphen"/>ed the Nations by war, and must more yet in peace, till <hi>Oppression,</hi>
+                     <note place="margin">Isa. 59.13. to 19 verse</note>
+                     <hi>and the peoples poverty, cause that confu<g ref="char:EOLhyphen"/>sion,</hi> out of which God will bring forth perfect Go<g ref="char:EOLhyphen"/>vernment, and <hi>glory on earth,</hi> wherein <hi>righteousness</hi> shall dwell;
+<note place="margin">Rev. 21.22, 22. compared.</note> when <hi>no form of Religion</hi> shall appear.</p>
+                  <p>Let that form and face of death, in which Army-Saints are made to destroy, be an Apology for my Spirit to go forth in destruction and ruine of that power which keeps both Church and Common<g ref="char:EOLhyphen"/>wealth in confusion and bondage.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:118397:16"/>
+                  <p>Apocrypha. The second Epistle of <hi>PAƲL</hi> to the Church of LAODICEA, Col. 2.1. and 4.16. That is, To the Church of ENGLAND, according to Mr. <hi>Brightman. Revel.</hi> 3.14. By WILL. ERBERY.</p>
+                  <q>
+                     <bibl>
+                        <hi>2 Pet. 3.15, 6.</hi>
+                     </bibl>
+                     <p>Account that the long-suffering of the Lord is <hi>salvation,</hi> e<g ref="char:EOLhyphen"/>ven as our beloved brother Paul, according to the wisdom given unto him, hath written unto you.</p>
+                     <p>As also <hi>in all his Epistles,</hi> speaking in them of these things, in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do all other Scriptures, to <hi>their owne destruction.</hi>
+                     </p>
+                  </q>
+                  <p>Printed at <hi>London,</hi> 1652.</p>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb facs="tcp:118397:17"/>
+                  <pb n="1" facs="tcp:118397:17"/>
+                  <head>Apocrypha. The Epistle of <hi>Paul</hi> to the Church of <hi>Laodicea,</hi> the Church of <hi>England.</hi>
+                  </head>
+                  <opener>
+                     <salute>Dearly beloved Brethren,</salute>
+                  </opener>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">G</seg>Race, mercy, and peace</hi> be multiply<g ref="char:EOLhyphen"/>ed unto you, who have need of it more then any, there being nothing among you, but <hi>war, wrath, and want</hi> of grace,
+<note place="margin">Rev. 3.17. <hi>Because thou saist, thou art rich, and en<g ref="char:EOLhyphen"/>creased with Goods,</hi> &amp;c.</note> though <hi>goeds enough,</hi> and enough of the world is with you: but when God in wrath shall remember mercy, as light was brought forth out of darkness, and love out of division; so from all our wars and wranglings, God will bring perfect peace and truth unto all his people at last. <hi>Zach.</hi> 8.10, 19. com<g ref="char:EOLhyphen"/>pared.</p>
+                  <pb n="2" facs="tcp:118397:18"/>
+                  <p>Why <hi>Paul</hi> should be call'd a Welshman, is no disparagement to the English, though the Welsh be the better Gentlemen, being pure <hi>Britaines,</hi> but the English are of kin to the Dutch, that dull and muddy people, designed to destruction or subjecti<g ref="char:EOLhyphen"/>on, as <hi>Esau</hi> was to his younger brother.</p>
+                  <p>Besides 'tis the opinion of some, that the <hi>Bri<g ref="char:EOLhyphen"/>taines</hi> are of the <hi>Iewes,</hi> but the old <hi>Dutch</hi> and <hi>Ger<g ref="char:EOLhyphen"/>manes</hi> are meer <hi>Gentiles,</hi> and so are the <hi>English</hi> still, as in their linage and language like unto them, so in their <hi>love to the earth,</hi>
+                     <note place="margin">Matth. 6.32. Revel. 17.1.</note> that's pure Gentilisme; and in <hi>love to the waters</hi> also, as the purest Churches in <hi>England</hi> and <hi>Wales.</hi>
+                  </p>
+                  <p>But as the Lord is turning the earth, so is he tossing the waters;
+<note place="margin">Psal. 107.26.</note> and though they mount <hi>up to hea<g ref="char:EOLhyphen"/>ven,</hi> yet they <hi>go downe againe to the depths:</hi> there we shall find both Christians and Churches, <hi>Welsh</hi> and <hi>English</hi> also.</p>
+                  <p>This is the Earth turned upside down: for the Church was once the Heaven, and Heavenly being, now but Earth, and the Earthly power, in their Or<g ref="char:EOLhyphen"/>dinances, Designes, Desires, and Delights; but God is now turning mens upside down, their in<g ref="char:EOLhyphen"/>side out,
+<note place="margin">Isai 32.6.</note> their very <hi>Hypocrisie shall appear to all men,</hi> and the <hi>Heathen</hi> dwelling in the <hi>hearts of Christians,</hi> Eph. 4.17.</p>
+                  <p>We think of converting the Heathens, and the Heathens are at hand to convert us Christians and Churches, from our forms of Religion to the power of righteousness.</p>
+                  <p>Therefore leaving the Churches, let us Go to <hi>the Heathens to propagate the Gospel</hi> among us, to tell
+<pb n="3" facs="tcp:118397:18"/>the world that <hi>all men are in God, God in them,</hi>
+                     <note place="margin">Aratus <hi>the Pe<g ref="char:EOLhyphen"/>et, whom the A<g ref="char:EOLhyphen"/>postle ownes as an Orthodox divine,</hi> Act. 17.28. <gap reason="foreign" resp="#oxf">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Epimenedes <hi>the Poet, whom the Apostle calls a Prophet, not onely that he was so to the Greeks, who gave him divine honour after death, for his knowledge in mystical things; but his words were a prophe<g ref="char:EOLhyphen"/>tick speech to the Churches, being lyers then inpart, and now altogether; who are neither Iews (a true Church) nor (true Mini<g ref="char:EOLhyphen"/>sters) as they say,</hi> Rev. 2.2. Rev. 3.9. <hi>there<g ref="char:EOLhyphen"/>fore lyers, and slow-belliestoe, as the Poet calls them,</hi> Tit. 1.12. <gap reason="foreign" resp="#oxf">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                        <hi>The Cretian, whom Paul points at, were Churches, and Elders also,</hi> Tit. 1.5.</note>
+                     <hi>and they his off-spring:</hi> that the <hi>Cretians</hi> (or Churches) are <hi>alwaies lyers, evil beasts, slow-bellies;</hi> that <hi>to think evil of no man, is the best religion,</hi> to <hi>do good to all,</hi> and do to every one, <hi>as we would that men do to us;</hi> that <hi>sooner the Sun should be turned from his course, then an honest man or Magistrate from the way of Justice,</hi> or works of Mercy; that <hi>God is the soul of the world, that the soul in Man (or Spirit)</hi> is nothing but God dwelling in the <hi>humane body.</hi> This and many more that is Gospel and glad tydings to all, every Scholar will tell you, that Heathens can teach.</p>
+                  <p>But Church-pastors, Teachers, and Preach<g ref="char:EOLhyphen"/>ers of the Gospel now, know not the glad ty<g ref="char:EOLhyphen"/>dings, they know neither God nor Man, nor the <hi>mystery</hi> of either, nor the mystery of the <hi>God-man</hi> Christ Jesus; how God is in Christ, and Christ in Man: for <hi>Paul could present every man in Christ;</hi> so <hi>Plan<g ref="char:EOLhyphen"/>tins</hi> edition reads, though our Greek Testaments and English speak <hi>every? man perfect in Christ,</hi> as if it was onely for the Church, whereas 't was spoken of the world, to whom the Gospel was preached by <hi>Paul,</hi> warning every man, teaching every man, that we might <hi>present every man in Christ,</hi> Col. 1.28.</p>
+                  <p>Although tis true in a sense, that in Christ every man in the world is perfect, Christ being the Savi<g ref="char:EOLhyphen"/>our of the world, taking away the sin of the world, a propitiation for the sins of the world, giving him<g ref="char:EOLhyphen"/>self a ransome for all, and tasting death for every man.</p>
+                  <p>This indeed, some baptized Teachers Preach,
+<pb n="4" facs="tcp:118397:19"/>Christ dying for all; but they know not the ground of this, nor will acknowledge it, that Christ is in every man; because every man is in God, and so in Christ.</p>
+                  <p>This is a mystery, and 'tis more to manifest it clearly to men. But <hi>Paul</hi> (as all Gospel-Preachers) had the power from on high, wherein he did la<g ref="char:EOLhyphen"/>bour, striving according to his <hi>working, which wrought in me mightily,</hi>
+                     <note place="margin">1 Pet. 1.12. Col. 1.29.</note> saith he; so no man nor Mi<g ref="char:EOLhyphen"/>nister can say this day; therefore no more preach the Gospel, then I.</p>
+                  <p>For my part, I am wholly silent; for though I speak sometimes unto men in the flesh, yet my Spi<g ref="char:EOLhyphen"/>rit is silent unto God; thus I am wholly silent, wait<g ref="char:EOLhyphen"/>ing as one of the <hi>dry bones in the dust,</hi>
+                     <note place="margin">Ezek. 37.22.</note> when the Lord will raise me with all his people out of <hi>our Graves,</hi> by revealing his glory in us.</p>
+                  <p>This glory <hi>Paul</hi> (with all the Creation) waited for, not a glory without,
+<note place="margin">Rom. 8.18, 19, 21.</note> (as Christians dream of God) but a glory to be <hi>revealed in us,</hi> and that in this life: for, 'tis <hi>in us,</hi> not about us, as men think the glory of heaven to be; besides, the whole creation of mankind waits for it also, not to the Saints onely, verse 21. but in themselves, to be delivered from the <hi>bondage of corruption, to the glorious liberty of the sons of God.</hi>
+                  </p>
+                  <p>This glorious liberty is hinted and held forth in the Armes of the Commonwealth of <hi>England,</hi> but 'twill first arise in the Christians and Churches in <hi>Wales;</hi> Where <hi>Paul</hi> also will first appear, not in a Pulpit, as Saint <hi>Augustine</hi> wisht to see him, and <hi>Rome</hi> in her Glory; no, both shall be ruined, and the
+<pb n="5" facs="tcp:118397:19"/>glory shall first arise, and be revealed in <hi>Wales,</hi> or (to take away all envies and animosities from the English) in great <hi>Britain,</hi> in the <hi>British</hi> Isles.</p>
+                  <p>I will not repeat what that Seraphick man Mr. <hi>Sterry,</hi> has taught in a Sermon, of the Northern Presbytery; which I pray the Independant Churches to read, with the Spirit of judgement and burning.</p>
+                  <p>But as all the Prophets tell us of the <hi>Multitude of the Isles</hi> wherein Christ should come and <hi>raigne;</hi>
+                     <note place="margin">Psal. 97.1. Or great Isles, as Britain is.</note> and of the Isles that should wait for his <hi>Law, Isa.</hi> 42.4. (as if we should have other Lawes, and Law<g ref="char:EOLhyphen"/>yers also:) So the everlasting Gospel and glad ty<g ref="char:EOLhyphen"/>dings to all men, shall first be made known to our British Isle: <hi>They shall lift up their voice, they shall sing for the Majesty of the Lord, they shall cry aloud from the Sea.</hi>
+                  </p>
+                  <p>
+                     <hi>Glorifie the Lord in the fires, the Name of the Lord of Israel in the Isles of the Sea, Isa.</hi> 24.14, 15. verses.</p>
+                  <p>This Scripture and Chapter, as some Hebrew Rabbies tell us, is for the great Island of <hi>Britain;</hi> which God will turn upside down, verse 1. to 22.
+<note place="margin">Dan. 7, 9, 10. Isa. 33.14.</note> and punish <hi>the host of the high Ones that are on high, and the Kings of the earth upon the earth,</hi> verse 22. as <hi>God</hi> has done, and will do more upon our mighty Kings, and Military also, even the host of the high ones, and that are on high, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Therefore I wish'd you to read this with the Spi<g ref="char:EOLhyphen"/>rit of judgement and burning, because <hi>as the Lord will be glorified in the fires, Isa.</hi> 24.15. so God will appear now in <hi>fire,</hi> or as <hi>a consuming Fire our God will appear in these last times, yea as everlasting burn<g ref="char:EOLhyphen"/>ings,</hi>
+                     <pb n="6" facs="tcp:118397:20"/>continually consuming all flesh within us, that nothing but pure Spirit may appear among us.</p>
+                  <p>Oh what a day of wrath will this be to the flesh! when God shall come forth <hi>as a whirlwind,</hi>
+                     <note place="margin">Nah. 1.3.</note> turning it round as the dust, and taking it up to the Clouds: so the whirlwind will do, and so our God will ap<g ref="char:EOLhyphen"/>pear as a <hi>Chariot of fire</hi> to take us up to himself. <hi>This whirlwind comes out of the North,</hi>
+                     <note place="margin">2 King. 2.11. Mal. 4.1, 5. compare.</note>
+                     <hi>and a great cloud, and a fire infolding it self,</hi> &amp;c. <hi>Ezek.</hi> 1.4. that is, the <hi>glory of God,</hi> and the <hi>appearing of a man</hi> above the throne, verse 26, 28. that is, Christ in us, God in our flesh will be fully manifest.</p>
+                  <p>But this will be first in the North; for these Northern Isles were the first that acknowledged Christ; here the first King and Kingdom was.</p>
+                  <p>
+                     <hi>Lucius</hi> the first Christian King, was a <hi>Britain;</hi> and <hi>Contanstine</hi> the great, the first Christian Emperour in the world, was a <hi>Britain</hi> or Welshman.</p>
+                  <p>And as <hi>Britain</hi> was the first National Church,
+<note place="margin">An. Dom. 135. Reg. <hi>Lucio.</hi>
+                     </note> the mother of Christendom: so her old heathen<g ref="char:EOLhyphen"/>ish Priests, the Flamines and Arch-Flamines were, then converted into Arch-Bishops and Bishops: for as formerly there were three Arch-Flamines here; so three Arch-Bishops with us at first; at <hi>London, York,</hi> and the third at <hi>Gaerleon</hi> in Wales. Sir <hi>H. Spelman's</hi> Antiq. <hi>Brit.</hi>
+                  </p>
+                  <p>And as Christ, so Antichrist first appeared with power in <hi>Wales:</hi> for when Kings and Kingdoms be<g ref="char:EOLhyphen"/>came Christian, then Antichrist began to be great; and as the National Church was <hi>Babylon the great,</hi> so were their great Councels and Synods in <hi>Wales:</hi> yea about two hundred years after Christ, the A<g ref="char:EOLhyphen"/>postacie so prevailed, both in Doctrine and Wor<g ref="char:EOLhyphen"/>ship
+<pb n="7" facs="tcp:118397:20"/>there, as in the midst of Popery.</p>
+                  <p>But here's the glory again; Babylons fall shall be from the North, <hi>Jer.</hi> 50.3. Other Heresies had a blow by the Greek and Latine writers, the East<g ref="char:EOLhyphen"/>erne and Western worthies, yea the Southern and and Affrican Fathers, as <hi>Augustine,</hi> &amp;c. but the Po<g ref="char:EOLhyphen"/>pish Hierarchy in all its parts, from first to last, fell in these Northern Isles.</p>
+                  <p>I will not speak of Popery, and the first refor<g ref="char:EOLhyphen"/>mers in <hi>Germany, England</hi> and <hi>Scotland;</hi> though our English <hi>Wickliff</hi> was long before <hi>Luther, Huss,</hi> or <hi>Jerome</hi> of <hi>Prague.</hi>
+                  </p>
+                  <p>I say, Prelacy fell first by the Scots, Presbyte<g ref="char:EOLhyphen"/>ry by the English, Independents and Anabaptists will by the Welsh at last.</p>
+                  <p>And 'tis a wonder, how all formes stand fast and abide as they were from the begining in other Na<g ref="char:EOLhyphen"/>tions; but in this, one falls after another, as if no<g ref="char:EOLhyphen"/>thing should stand on English earth, but pure Spi<g ref="char:EOLhyphen"/>rit, but the Lord himself.</p>
+                  <p>Popery stands in <hi>Spain</hi> and <hi>France,</hi> Prelacy or Bishops among the <hi>Luthern Germans,</hi> Presbytery at <hi>Geneva,</hi> and Independency in <hi>New England</hi> and <hi>Holland;</hi> Anabaptisme for a time in <hi>England</hi> and <hi>Ireland,</hi> but very shortly all will fall, and first in Wales; unless our <hi>Scots,</hi> like <hi>Pharez,</hi> break forth out of the womb before us; for <hi>Zarah</hi> has a red or scarlet thred (too much blood) about his Arm, to be the Father of Christ, to bring forth God in the flesh, as <hi>Pharez</hi> did, <hi>Gen.</hi> 38.28, 29. <hi>Ruth</hi> 4.18, 22. compared.</p>
+                  <p>For though separated Churches were before in
+<pb n="8" facs="tcp:118397:21"/>
+                     <hi>England,</hi> yet the first Independent Church (accor<g ref="char:EOLhyphen"/>ding to the <hi>New-England</hi> pattern) was set up in <hi>Wales;</hi> where the Saints have out-lived their per<g ref="char:EOLhyphen"/>secutors, as there they suffered and stood out all the times of persecution, when the proudest Pa<g ref="char:EOLhyphen"/>stors in <hi>England</hi> dared not to show their faces; but hid their heads in <hi>Holland.</hi>
+                  </p>
+                  <p>Now publick liberty, and Peace, and Power, and Pomp attends the Churches, what a compa<g ref="char:EOLhyphen"/>ny of them appear and multiply in <hi>England,</hi> and <hi>Ireland,</hi> and <hi>Scotland</hi> too, as they say! but all will fall, and first, as I said, in <hi>Wales.</hi>
+                  </p>
+                  <p>For as there the first Independent Church, so the Baptized Churches last were there, unless there may be some in <hi>Scotland</hi> since; 'tis onely of late the Baptized Churches came and increased in <hi>Wales;</hi> and yet 'tis but the weakest of the Christians there are fallen into the waters.</p>
+                  <p>For I will speak the truth without partiality; there were not more spiritual and suffering Saints in any part of English ground, as were in Wales; so self-denying, and dying to the world, yea so wise<g ref="char:EOLhyphen"/>hearted and knowing Christians; let all the Eng<g ref="char:EOLhyphen"/>lish Counties about them testifie, and will tell, how many Saints from <hi>Somerset, Gloucester</hi>-shire, <hi>Hereford</hi>-shire, <hi>Radnor, Glamorgan</hi>-shire came in multitudes with delight to <hi>Lanvaghes.</hi>
+                  </p>
+                  <p>What light, and labour in the Spirit was then? how heavenly minded? what holy language a<g ref="char:EOLhyphen"/>mong them? what watching? what prayers night and day, in the way they went, in the work they did at their plow; everywhere in private, that Spi<g ref="char:EOLhyphen"/>rit
+<pb n="9" facs="tcp:118397:21"/>of prayer and pureness of heart appeared, no<g ref="char:EOLhyphen"/>thing of Ordinances was then mentioned, but with fear in themselves, and forcing others by the Spi<g ref="char:EOLhyphen"/>rit, from living in them: all was Spirit and life, the Saints in <hi>Wales</hi> then lookt for.</p>
+                  <p>And 'twould be so still, but that they are enbon<g ref="char:EOLhyphen"/>daged to their Pastors and Teachers, and which is worse, to the world, in which they gaine much, by pleasing men.</p>
+                  <p>Ah pity pitty poor <hi>Wales!</hi> how are thy mighty fallen? but they are rising againe. <hi>England</hi> is yet too high, too stately, too proud, too full of pomp, and profit, and pleasure, to come down in the flesh, and to rise in the Spirit; though they can speak fine words: but <hi>Wales</hi> is a poor oppressed peo<g ref="char:EOLhyphen"/>ple, and despised also: Gentlemen and all are down already; there's Frize, &amp; Flannen; there's Bread and Cheese, and an Oaten cake, with runing water; Oh there's a place for Christ to come.</p>
+                  <p>And if the dead in Christ shall rise first, there's some living there, who are dead in Christ, their flesh being crucified to God; though most for the present live in forms or the flesh of Christ; yea we have more there then in <hi>England,</hi> not a Prelate or Presbyter appeares with power in all South-<hi>Wales</hi> to preach or pray.</p>
+                  <p>Behold, O <hi>English, Scots,</hi> and <hi>Irish</hi> Churches, yee shall shortly see what gallant Spirits, and noble hearts we have in <hi>VVales,</hi> a man going into the in<g ref="char:EOLhyphen"/>ward world, and walking up to the eternal Spirit, not in word and in tongue, but in deed and in truth; as you shall shortly read in a Teacher of
+<pb n="10" facs="tcp:118397:22"/>North Wales.
+<note place="margin">Mr. <hi>Fl.</hi>
+                     </note> And in South-Wales also, the chiefest of the Pastors there, forsakes not onely his Tithes, but his forms of Prayer before and af<g ref="char:EOLhyphen"/>ter Sermon; I mean, his Lords prayer before, and his Episcopal or Priestly benediction, and bles<g ref="char:EOLhyphen"/>sing after it; yea, what he told me himself in pri<g ref="char:EOLhyphen"/>vate, I must preach on the house top to the world, that there is <hi>Antichrist in all their Ordinances, and all their Churches shall fall.</hi>
+                  </p>
+                  <p>Again, he has left his singing of Psalmes, though he said once it was an Ordinance of Christ, the one<g ref="char:EOLhyphen"/>ly Church-musick; but now the <hi>voice of Harpers in Babylon begin to cease,</hi>
+                     <note place="margin">Rev. 18.22.</note>
+                     <hi>the Pipers and Trumpeters toe</hi> (the Itinerant Preachers) yea the <hi>sound of a Milstone shall no more be heard in thee;</hi>
+                     <note place="margin">Rev. 16.34.12. verses.</note> for the waters fail, and the <hi>River Euphrates</hi> is drying up apace.</p>
+                  <p>What will the <hi>Welsh Baptists</hi> do then, when there is no <hi>water</hi> to dip, to turn the Mill, nor to grind their Meal? yea where will be their breaking of bread, when no bread can be had? for the <hi>Mil<g ref="char:EOLhyphen"/>stones must go no more,</hi> saith <hi>Iohn, Rev.</hi> 18.22.</p>
+                  <p>Againe, my Independent Brother and Pastor cannot Baptize children of Believers any more, though he be no more Anabaptist then I.</p>
+                  <p>Yea, all the Baptized Churches now in <hi>Wales,</hi> are going from the Waters to the Air, yea to Fire, and the heavenly Spirit: for all speak high things, of the raign of Christ on earth, at hand.</p>
+                  <p>When the Spirit shall come, it will shew them the truth, and teach them their present mistakes in this; that the Kings Daughter is <hi>all glorious within,</hi> and the Glory to be revealed in us, not that the
+<pb n="11" facs="tcp:118397:22"/>Saints shall raigne as earthly Kings, in worldly power and plenty, but in righteousness, peace, and joy in the holy Spirit, joy unspeakable and full of glory; more glorious then ever was in the Apostles or Apostolick Churches, <hi>Zach.</hi> 9.15, 17. <hi>Zach.</hi> 10.7. compare.</p>
+                  <p>Lastly, as <hi>New Ierusalem</hi> is coming downe from God out of Heaven: so it will first appear on this Nothern British Isle; Therefore I look for all the Nations of the earth to gather against it, Gog and Magog, Dutch and Danes, with the rest, to arise like the sands of the Sea,
+<note place="margin">Rev. 20.8, 9.</note> to compass the camp of the Saints, and the beloved City; 'tis neither Fleets nor Armies, nor strength of <hi>man on earth or waters,</hi> can defend us;
+<note place="margin">Isa. 17.12, 13, 14.</note> but <hi>fire shall come down from Heaven</hi> and destroy them; for 'tis not the King that is dead, but the King that lives among us, that makes the Nations about so angry with us, <hi>Rev.</hi> 11.17, 38.</p>
+                  <p>This fire before, is the fulness of the Spirit, or power from on high, which shall first burn up our flesh, and then that force against us: yea, as <hi>God is the glory</hi> in the midst of the new <hi>Ierusalem,</hi> so he is the <hi>Wall of fire</hi> about it, <hi>Zach.</hi> 2.5.</p>
+                  <p>
+                     <hi>Glorious things are spoken of thee, Oh thou City of God! and the great God will greatly be praysed in thee; beautiful for situation, the joy of the whole is (Jerusalem,</hi> Isa. 62.7.) <hi>mount Sion on the sides of the North, the City of the great King,</hi> Psal. 48.2. <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>England</hi> is part of the Nothern British Isle; but Wales is the <hi>sides of the North,</hi> being just the wing of great <hi>Britain,</hi> the greatest Isle of the world, where will be the City of the great King.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:118397:23"/>
+                  <pb facs="tcp:118397:23"/>
+                  <p>THE General Epistle To the <hi>HEBREWS;</hi> That is, To the JEWS, the Ministers of LONDON-CHURCHES. SHEWING,
+<list>
+                        <item>1. That the Gathered Churches are the Jews to be called: when they are scattered, they shall know it, <hi>Jer.</hi> 31.10. <hi>Hos.</hi> 5.9. and 9.7. compare.</item>
+                        <item>2. That for these 1400 yeers, since the Apostacie, the state of the Church (fallen to a Jewish Constitution) has been far differing from spiritual Saints therein, who were the onely blessed, when the Church was accursed, <hi>Isai.</hi> 56.5, 8. <hi>Isai.</hi> 43.21, 22, 28. compare. with <hi>Isa.</hi> 65.5, 8.</item>
+                        <item>3. That spiritual Saints were ever hated and cast out of the Church, in which they were as signes and wonders, men wondered at, or monstrous men, as the <hi>Geneva</hi>-Translation reads, <hi>Zech.</hi> 3.8. <hi>Isai.</hi> 8.18. <hi>Isai.</hi> 66.5. compare.</item>
+                        <item>4. That the Ministers of Churches have been in all Ages the onely leaders of Churches and Christians from one form to another, from mountain to hill; but not to the holy mount of the Lord at <hi>Jerusalem, Isai.</hi> 65.7.11. <hi>Jer.</hi> 50.6. <hi>Isai.</hi> 9.16. compare with <hi>Isai.</hi> 27.12.13.</item>
+                     </list> By WIL. ERBERY.</p>
+                  <q>
+                     <bibl>
+                        <hi>Jer. 12.10.</hi>
+                     </bibl> Many Pastors have destroyed my vineyard, they have troden my por<g ref="char:EOLhyphen"/>tion under foot, they have made my pleasant portion a desolate wilderness.</q>
+                  <p>Printed at <hi>London,</hi> 1652.</p>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb facs="tcp:118397:24"/>
+                  <pb n="1" facs="tcp:118397:24"/>
+                  <head>To the London-Ministers.</head>
+                  <opener>
+                     <salute>Friends,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">B</seg>E not offended, for I was <hi>forced in spirit</hi> to what I spake unto you at <hi>London-house,</hi> and now on the house top to the world; that since the Apostacy God <hi>never bless'd the Churches,</hi> but hath <hi>curs'd them and their holy Princes,</hi> Isa. 43.28.</p>
+                  <p>Yea, the <hi>Lord hath sworn</hi> that he hates and <hi>abhors the excellency of Jacob,</hi> that is, the Church in her highest form, when that face of Death shall pass over all their Members and Ministers, that not a <hi>man shall not be left to bury their dead:</hi> yea, so dead shall they appear in their <hi>worships and walkings,</hi> that though now they seem to be somewhat, and to speak much, yet then they shall be <hi>silent for shame;</hi> and say to each other, <hi>Hold thy peace, we may not
+<pb n="2" facs="tcp:118397:25"/>make mention of the Name of the Lord</hi> (in preaching or praying) for the Apostacy will be so full, and their filthiness so appear to all,
+<note place="margin">Prayers were once at our Bu<g ref="char:EOLhyphen"/>rials, but the si<g ref="char:EOLhyphen"/>lent burying of the dead this day, is a sign of this to me.</note> that they shall be afraid and ashamed to be called <hi>the People of God;</hi> but bury one another quickly out of the way from the sight of men, that no more mention be made of them, nor of God among them, <hi>Amos</hi> 6.1. to 8, 9, 10, 11, compared.</p>
+                  <p>Indeed 'twas once otherwise in the Jewish and Christian Church at the first; they who were in the Church and <hi>of the Church were the best;</hi>
+                     <note place="margin">1 Ioh. 2.19.</note> but now 'tis <hi>worse to be of the Church,</hi>
+                     <note place="margin">Rev. 18.4.</note> though the best may be in it.</p>
+                  <p>For since the Apostacy, since the <hi>Spirit of Christ has departed,</hi>
+                     <note place="margin">Isa. 1.21.</note> and the <hi>spirit of Anti-christ come with power</hi> in the Church; the Church has been no more the house of God,
+<note place="margin">Rev. 17.1.</note> but a Babel; no more the <hi>Spouse of Christ,</hi>
+                     <note place="margin">V. 2. <hi>Thats Beauty and Bands,</hi> Zach. 11.10, 14. Ezek. 37.16. <hi>compare.</hi>
+                     </note> but the great <hi>Whore;</hi> and <hi>all joyning with her in Ordinances, have been defiled:</hi> yea (the <hi>spirit of life and love</hi> being gone from the body, and <hi>the body dead and divided</hi> in Babylon) as all who touch the dead become unclean, <hi>so are this people, saith God, and so is this Nation (the Church) before me, and so is every work of their hands, and all that they offer there, it is un<g ref="char:EOLhyphen"/>clean,</hi> Isa. 1.13, 14. <hi>Hag.</hi> 1.13, 14.</p>
+                  <p>Observe from the beginning,
+<note place="margin">Rev. 17.16. Rev. 18.24.</note> these 1400 years and more, how unclean, carnal, covetous, and <hi>cru<g ref="char:EOLhyphen"/>el the Church</hi> has been, drunk with the <hi>blood of Saints</hi> that were in it; these in their spiritual Principles and practice being still contrary to those formes of godliness, and common Christianity of Churches, in their Members, &amp; Ministers. I will not now men<g ref="char:EOLhyphen"/>tion
+<pb n="3" facs="tcp:118397:25"/>the Popish Church, how Protestants were per<g ref="char:EOLhyphen"/>secuted there, yea the honest Papist, and pious Saints of the same profession, hated of their owne Church!</p>
+                  <p>Look back but into that which we have seen and felt, how sincere professors have fared in Protestant Churches, and honest Presbyters or Puritans by the Prelatick Church; yea the zealous Presbyters, when raised into Church Government, were the same to the Independent or godly party in <hi>England,</hi> as the Independent Churches in New <hi>England</hi> to the Baptized Brethren, or to the Saints above them in Spirit and truth.</p>
+                  <p>Truly then 'tis neither honour nor safety to be in Church-fellowship this day, but a shame, and will be a suffering in the flesh, both to members and Ministers, as it has been to their fore-fathers; for the <hi>eternal Spirit</hi> (as I said) is coming forth,
+<note place="margin">Zach. 12.3, 6, 7. verses.</note> and vi<g ref="char:EOLhyphen"/>sibly come already as <hi>Fire in the scattered Saints,</hi> to burn up all the <hi>gathered Churches.</hi>
+                  </p>
+                  <p>Oh come then (my beloved brethren) let us be and abide for a while in the Wilderness; for there we have <hi>a place apointed by God,</hi> as I shall tell you hereafter, <hi>Rev.</hi> 12.
+<note place="margin">Act. 7.38.</note>
+                     <hi>there in the wilderness the Saints were first called a Church,</hi> yea there the legal Church had Gospel-Ordinances,
+<note place="margin">1 Cor. 10.2, 3.</note> were <hi>baptized</hi> into the Sea and Cloud, and did <hi>eate the same spiritual meat,</hi> &amp;c. From thence,
+<note place="margin">Song 8.5.</note> the <hi>Church in the wilderness</hi> comes forth with glory, <hi>leaning on her beloved,</hi> &amp;c. From thence <hi>Christ comes,</hi>
+                     <note place="margin">Song 8.14.</note> and <hi>makes haste like a Roe or young Hart,</hi> on the mountains of spices, <hi>&amp;c.</hi>
+                     <note place="margin">Rev. 22.20. compare.</note> There the <hi>Spirit</hi> and the Bride say come, <hi>come Lord Iesus, come quickly.</hi>
+                  </p>
+                  <pb n="4" facs="tcp:118397:26"/>
+                  <p>I would not wake my Beloved till he please, nor bring you out of your Church-fellowship, till the Lord call you; nor call you forth to any particular form, to a Conventicle or secret Chamber, nor yet to a Desart,
+<note place="margin">1 Cor. 12.12.</note> nor to any fellowship distinct from the rest of the Saints; for that's a false Christ, not only the false Churches now (for the true <hi>was Christ</hi>) but all <hi>separated fellowships</hi> of Christians,
+<note place="margin">Math 24.26, 27. Rev. 18.1. compared</note> though <hi>true Saints,</hi> are <hi>false Christs,</hi> being far below that glo<g ref="char:EOLhyphen"/>rious appearance of his, as <hi>lightning from East to West,</hi>
+                     <note place="margin">
+                        <hi>This Angel is nothing but that appearance of God in man, which will ga<g ref="char:EOLhyphen"/>ther up all in God, or like lightning ligh<g ref="char:EOLhyphen"/>ten the whole earth with glo<g ref="char:EOLhyphen"/>ry.</hi> Matth. 25.4. Song 5.2. <hi>The oyl which the wise Vir<g ref="char:EOLhyphen"/>gins had with their Lamps, was the Spirit, which the fool<g ref="char:EOLhyphen"/>ish waited not for.</hi>
+                     </note> which will gather up all the Saints into him<g ref="char:EOLhyphen"/>self, 2 <hi>Thes.</hi> 2.1.</p>
+                  <p>Till this be, let us all <hi>wait as wise Virgins,</hi> with Oyl in our Lamps, or rather <hi>Oyl with our Lamps,</hi> for we have none yet in them, nor in our Churches; though 'tis then with us, when we are awake, or waiting in sleep for that, <hi>wanting it in us,</hi> till all the Saints with us be filled with the Spirit from on high, <hi>Isa.</hi> 41, 17.18, 19. <hi>Isa.</hi> 32.14, 15.</p>
+                  <p>And let us wait at <hi>Jerusalem,</hi> not going forth of the indwellings of God; for that's <hi>Ierusalem,</hi> where there is <hi>no Temple, but the Lord God himself and the Lamb.</hi>
+                  </p>
+                  <p>If before the Spirit we go forth to any form, fel<g ref="char:EOLhyphen"/>lowship, or fleshly Ordinance or Office, the pre<g ref="char:EOLhyphen"/>sence of the Lord goes not with us, but we are li<g ref="char:EOLhyphen"/>able to <hi>Babylons</hi> plagues, death, mourning, famine, and fire, <hi>Rev.</hi> 18.8.</p>
+                  <p>This <hi>fire</hi> is the Spirits fulness,
+<note place="margin">Math. 3.11. Act. 1.5. Rom. 8.23.</note> which in its <hi>first fruits</hi> set the Churches of Christ in <hi>Gospel, order;</hi> but since the Churches are come to <hi>Babylon,</hi> building and abiding there in forms, without the Baptisme
+<pb n="5" facs="tcp:118397:26"/>of the Spirit and of Fire, the Spirit comes forth in fulness as Fire, to confound and consume the Churches: <hi>See the Sword doubled.</hi>
+                  </p>
+                  <p>And <hi>Paul</hi> appeareth still, not to edifie, and build, and plant the Churches, as at first, but to pluck up, and throw down, and destroy; for so he did once before unto the Church of the <hi>Iewes,</hi>
+                     <note place="margin">Act. 21.28.</note> and all those Ordinances, though appointed by God him<g ref="char:EOLhyphen"/>self; much more the Ordinances and Order now, invented by man, <hi>Pauls</hi> Spirit is plucking up, and throwing downe.</p>
+                  <p>
+                     <hi>Paul</hi> is no more tender to the Churches, but <hi>tor<g ref="char:EOLhyphen"/>ments</hi> them one after another; yea gives them <hi>dou<g ref="char:EOLhyphen"/>ble</hi> according to their works, that's double wrath; fills up the <hi>golden cup</hi> of their abomination, as the <hi>wine of fornication</hi> is filled in it,
+<note place="margin">Rev. 18.3, 6.</note> which becomes the <hi>wine of wrath</hi> to them (as to the National Churches) who being drunk therewith, with false worships and fellowships, and are reeling to and fro,
+<note place="margin">Jer. 51.39. Amos 8.14.</note> from one form to another, till they stumble, and fall, and rise up no more, unless in the Spirit of the Lord alone at last.</p>
+                  <p>'Tis safest then for you and me, to be alone, from all men, unto God, or to be be as the godly of old, the honest <hi>Puritans</hi> were; to be self-denying, and strict in our life, sweet in love together, doing good to all, and suffering for well doing, to be true in our words, just in our dealings; to watch our owne hearts and this present evil world, to be preserved pure and spotless in it, to have our conversation in Heaven, and use all earthly things in a heavenly manner, to minde things that are above, not in
+<pb n="6" facs="tcp:118397:27"/>place, but in affection and attainment, to see Christ sitting at the right hand of God in our hearts, and nothing raigning there but himself; thus walking humbly with our God, and waiting for his glori<g ref="char:EOLhyphen"/>ous appearance in us; we then were in all good duties, more in Spirit and less in form, thus 'twas with us formerly.</p>
+                  <p>But now we are fallen from all that too, and be<g ref="char:EOLhyphen"/>come as the dead body in <hi>Babylon,</hi> and as the dry bones scattered in the open vallie, that every man above and about us, may see we are but the carcase of a Church and Christian conversation;
+<note place="margin">Ezek. 37.16. Zach. 11.14. compare.</note> let us then in love lye downe as dead together, or every bone alone by it self, every one like Doves on the mountaines,
+<note place="margin">Ezek. 7.16. Zach. 12.12.</note> yea <hi>every man apart and his wife apart,</hi> those of neerest <hi>flesh and fellowship</hi> to be alone from all, waiting when the Spirit will come from on high, and take us up all into God, when God shall be all in all.</p>
+                  <p>In a word, because you would know my Religi<g ref="char:EOLhyphen"/>on, 'tis thus. Next to my eternal being in God with Christ, and Christ in me, by the Spirit of ho<g ref="char:EOLhyphen"/>liness, coming forth in part, and carrying me out in all things to be an honest man, My Religion is, to be of no Religion, with man; that is, to have fel<g ref="char:EOLhyphen"/>lowship with none, and yet to have fellowship with all in God. Farewell.</p>
+                  <closer>
+                     <signed>Your most affectionate friend and servant in the Lord, <hi>William Erbery.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
